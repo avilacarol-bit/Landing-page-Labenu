@@ -4,6 +4,10 @@ Esse projeto teve como objetivo a criação de uma landing page para a empresa 4
 
 [Clique aqui](https://terrible-sneeze.surge.sh) para conferir esse projeto! :star_struck:
 
+Desenvolvido por: 
+[Arissa Otsu]((https://github.com/arissaotsu)
+[Caroline Bento]()
+[Vinicio Oliveira](https://github.com/ovinicio)
 ## Versão Desktop
 
 ### Seção Menu Inicial
